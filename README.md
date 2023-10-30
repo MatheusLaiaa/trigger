@@ -17,7 +17,7 @@ insert into Pedido (DataPedido, NomeCliente) values ('1986-09-12', 'Ricardo');
 
  ![image](https://github.com/MatheusLaiaa/trigger/assets/144149403/3f9fdfa3-3fa8-43bd-a62f-1ee63675c767)
 
- ## PASSO 2 - EXECUTAR A PRÓXIMA ETAPA E VERIFICAR O RESULTADO 
+ ## PASSO 2 - EXECUTAR A PRÓXIMA ETAPA E VERIFICAR O RESULTADO adicionar maria
 
  Inserir aqui
 DELIMITER $
